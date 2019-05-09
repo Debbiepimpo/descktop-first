@@ -1,0 +1,29 @@
+/* Apply the following changes to a webpage. In the hint tab,
+you'll find a link to boilerplate files to help get you started.
+
+-Make a section full-height
+-Remove margins and paddings from the body and html elements
+
+Use the following:
+    
+section {
+    background-color: #e84610;
+    height: 100%;
+}
+
+*/
+    
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+main {
+    height: 100%;
+}
+
+section {
+    height: 100%;
+    background-color: #e84610;
+}
